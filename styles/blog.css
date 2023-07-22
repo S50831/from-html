@@ -1,0 +1,17 @@
+label{
+  display: block;
+  margin-bottom: 10px;
+}
+legend{
+  text-align: center;
+}
+fieldset{
+  display: inline-block;
+  margin: 2%;
+}
+#box{
+  display: block;
+}
+#is{
+  text-align: left;
+}
